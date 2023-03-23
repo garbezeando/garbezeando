@@ -2,15 +2,15 @@
 
  
 
-## I'm Giovanna! <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif width="30">
+## I'm Giovanna <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif width="30">
 
  
 
-:computer: I'm Front-End Developer and UX/UI desiger!
+:computer: I'm Junior Data Analyst
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning JavaScript and React.
+:books: I’m currently learning Phyton and R.
 
 :outbox_tray: Goals: create a new project and find a new job.
 
